@@ -1,0 +1,28 @@
+*{  
+    display: block;
+    margin: auto;
+}
+body{
+    background-color: rgb(214, 175, 179);
+}
+#i{
+   
+    padding-left: 2px;
+  
+
+}
+.container{
+    border-radius: 10px;
+    border: 1px solid white;
+    background-color: white;
+    width: 20%;
+    height: 500px;
+}
+#N{ text-align: center;
+    color: black;
+}
+#vi,#ai,#ii{
+    padding: 10px 10px 10px 20px ;
+    height: 70px;
+    width: fit-content;
+}
